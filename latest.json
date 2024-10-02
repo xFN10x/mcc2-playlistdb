@@ -7,5 +7,11 @@
           "Excuse","Key"
         ]
     }
+    "2":{
+      "name":"Default"
+      "songs":[
+        "Mice on Venus","Wet Hands","Dry Hands","Oxygene","Key","Danny","Haggstrom","Living Mice","Subwoofer Lullaby","Sweden","Clark"
+      ]
+    }
   }
 }
