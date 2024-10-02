@@ -1,8 +1,8 @@
 {
-  "currentver":"a.1"
+  "currentver":"a.1",
   "soundtracks": {
     "1":{
-        "name":"tutsoundtrack"
+        "name":"tutsoundtrack",
         "songs":[
           "Excuse","Key"
         ]
