@@ -1,3 +1,10 @@
 {
   "currentver":"a.1"
+  "soundtracks": {
+    "1":{
+        "name":"tutsoundtrack"
+        "songs":[
+          "Excuse","Key"
+        ]
+    }
 }
